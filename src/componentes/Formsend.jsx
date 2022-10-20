@@ -16,7 +16,7 @@ const Sobre = () => {
             <h2 className=' text-[#b4cddc] '> Sua mensagem foi enviada com sucesso! </h2>
         </div>
         <div className='pt-20 ' >
-        <a href='https://bit.ly/portfolio_thiago-villani-marinho' className='  bg-[#519dcc] px-4 py-4 rounded-lg  w-[200px] '>Voltar para pagina principal</a>
+        <a href='https://portfolio-thiagovillani.vercel.app' className='  bg-[#519dcc] px-4 py-4 rounded-lg  w-[200px] '>Voltar para pagina principal</a>
           </div>
     </div>
     </div>
