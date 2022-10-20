@@ -12,7 +12,7 @@ const Sobre = () => {
         <Checkmark size={100}/> 
         </div>
         <div className='pt-5' >
-            <h1 className=' pb-5 text-3xl font-medium text-[#519dcc] text-center  '>ENVIADA! </h1>
+            <h1 className=' pb-5 text-3xl font-medium text-[#519dcc] text-center  '>ENVIADO! </h1>
             <h2 className=' text-[#b4cddc] '> Sua mensagem foi enviada com sucesso! </h2>
         </div>
         <div className='pt-20 ' >
