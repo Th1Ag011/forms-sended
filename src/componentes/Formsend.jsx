@@ -7,7 +7,7 @@ const Sobre = () => {
     
     
         <div className='py-24 '>
-        <div className=' bg-[#202024] rounded-3xl w-[800px] h-[600px] mx-auto flex flex-col pt-10 my-auto  items-center'>
+        <div className=' bg-[#202024] rounded-3xl sm:w-[800px] w-[400px] h-[600px] mx-auto flex flex-col pt-10 my-auto  items-center'>
         <div className=' 2xl:flex py-10  mx-44  '>
         <Checkmark size={100}/> 
         </div>
